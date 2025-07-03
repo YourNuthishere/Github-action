@@ -23,4 +23,4 @@ node-version: '16'  # Specify Node.js version - name: Install dependencies
 run: | 
 yarn install  # or npm install - name: Run tests 
 run: | 
-yarn test  # or npm test
+yarn test  # or npm testc
